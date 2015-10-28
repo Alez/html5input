@@ -3,7 +3,7 @@ Plugin to use with Zend Framework 1.
 Allows you to use html5 form elements such as "email" or "number" or whatever.
 
 # how to install
-composer install alez/html5input
+composer require alez/html5input
 
 # how to use
 ```php
